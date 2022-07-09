@@ -295,3 +295,11 @@ hi ClapFuzzyMatches10 term=bold cterm=bold ctermfg=69 ctermbg=NONE
 hi ClapFuzzyMatches11 term=bold cterm=bold ctermfg=63 ctermbg=NONE
 hi ClapFuzzyMatches12 term=bold cterm=bold ctermfg=57 ctermbg=NONE
 hi ClapPreview term=NONE cterm=NONE ctermfg=NONE ctermbg=251 gui=NONE guifg=NONE guibg=#c6c6c6
+
+""""""""""""""""""""""
+" diff
+""""""""""""""""""""""
+
+hi link diffAdded DiffAdd
+hi link diffRemoved DiffDelete
+hi link diffChanged DiffChange
