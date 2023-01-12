@@ -87,7 +87,7 @@ hi CursorLine term=underline cterm=underline ctermfg=NONE ctermbg=NONE gui=under
 hi Directory term=NONE cterm=NONE ctermfg=17 gui=NONE guifg=#00005f
 hi DiffAdd term=NONE cterm=NONE ctermbg=194 guibg=#C8FFC8
 hi DiffChange term=NONE cterm=NONE ctermbg=194 guibg=#C8FFC8
-hi DiffDelete term=NONE cterm=NONE ctermbg=224 ctermfg=224 gui=NONE guibg=#FFC8C8 guifg=#FFC8C8
+hi DiffDelete term=NONE cterm=NONE ctermbg=224 ctermfg=138 gui=NONE guibg=#FFC8C8 guifg=#BF9696
 hi DiffText term=NONE cterm=NONE ctermbg=84 gui=NONE guibg=#60FF87
 hi EndOfBuffer term=NONE cterm=NONE ctermfg=19 gui=NONE guifg=#0000af
 hi ErrorMsg term=NONE cterm=NONE ctermfg=196 ctermbg=231 gui=NONE guifg=#FF0000 guibg=#FFFFFF
